@@ -1,4 +1,4 @@
-# SPPU_MPL
+# SPPU_MPL 2019 Pattern
 Micro Processor (x86) Lab Practical 
 
 **List of Practical Assignments **
